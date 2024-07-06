@@ -7,6 +7,8 @@
 
 # THANKS
 I just want to say thank you Lord
+
+## This is a new line of text
     <name>
 
 # TECHNOLOGY COLOPHON
